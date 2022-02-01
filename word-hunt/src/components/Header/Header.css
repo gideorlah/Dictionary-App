@@ -8,9 +8,9 @@
 }
 
 .title {
-  font-size: 7vw;
+  font-size: 3vw;
   text-transform: uppercase;
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Russo One', sans-serif;
 }
 
 @media (max-width: 900px) {
